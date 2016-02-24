@@ -1,0 +1,25 @@
+body{
+	background-color: #BB2;
+	font-family: "courier";
+
+}
+p {
+	background-color:lightyellow; 
+}
+
+p:hover{
+
+	background-color: red;
+	color: white;
+	position: relative;
+	top: 150px;
+
+
+}
+
+#safa {
+	position:relative;
+	left: 3%;
+
+
+}
